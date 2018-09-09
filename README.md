@@ -1,4 +1,4 @@
-This Python 3 module provides the `class_key` function, which returns a class decorator that implements comparison and methods and `__hash__` using a given key.
+This Python 3 module provides the `class_key` function, which returns a class decorator that implements comparison methods and `__hash__` using a given key.
 
 # Example
 
